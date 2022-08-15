@@ -1,4 +1,5 @@
-public static int duplicate(int[] arr){
+public class FindDuplicate {
+	public static int duplicate(int[] arr){
         int i,j,c;
         for(i=0;i<arr.length;i++){
             c=0;
@@ -12,3 +13,5 @@ public static int duplicate(int[] arr){
         }
         return 0;
     }
+
+}
