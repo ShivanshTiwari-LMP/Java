@@ -1,4 +1,7 @@
-public static void main(String args[]) {
+public class BasicOfArray {
+
+	
+		public static void main(String args[]) {
 		     int arr[]=new int[10];
 		     arr[0]=5;
 		     arr[5]=17;
@@ -14,3 +17,5 @@ public static void main(String args[]) {
 		     System.out.println(dArray[0]);
 		    }
 	
+}
+
